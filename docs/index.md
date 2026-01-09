@@ -3,12 +3,12 @@ layout: home
 pageClass: home-page
 
 hero:
-  name: The ML4W Dotfiles for Hyprland  
+  name: The ML4W Dotfiles for KDE Plasma 
   image:
     src: /ml4w.svg
     alt: ML4W logo
     style: "width: 200px; height: auto;"
-  tagline: An advanced and full-featured configuration for the dynamic tiling window manager Hyprland.
+  tagline: An advanced and full-featured configuration for KDE Plasma.
   actions:
     - theme: brand
       text: Get Started 
