@@ -15,7 +15,7 @@ if [ -d ~/.local/share/icons/Colloid-Light ]; then
     rm -rf ~/.local/share/icons/Colloid-Light
 fi
 
-tar -xf $SCRIPT_DIR/icons/01-Colloid.tar.xz -C ~/.local/share/icons/
+tar -xf dotfiles/icons/01-Colloid.tar.xz -C ~/.local/share/icons/
 
 if [ -d ~/.local/share/icons/Colloid/actions ]; then
     rm -rf ~/.local/share/icons/Colloid/actions
