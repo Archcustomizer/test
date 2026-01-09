@@ -18,7 +18,7 @@ This pull request adds/updates/fixes [describe the main goal or feature].
 ### How Has This Been Tested?
 
 <!-- Describe the steps you followed to test the changes. If applicable, mention the specific environment where the testing took place. -->
-- [ ] Tested on Arch Linux/Based Distro.
+- [X] Tested on Arch Linux/Based Distro.
 - [ ] Tested on Fedora Linux/Based Distro.
 - [ ] Tested on openSuse.
 
@@ -26,13 +26,13 @@ This pull request adds/updates/fixes [describe the main goal or feature].
 
 Please ensure your pull request meets the following requirements:
 
-- [ ] My code follows the style guidelines of this project.
-- [ ] I have performed a self-review of my code.
-- [ ] I have commented on my code, particularly in hard-to-understand areas.
-- [ ] My changes do not introduce new warnings.
-- [ ] I have added tests that prove my fix is effective or that my feature works.
-- [ ] I have made corresponding changes to the documentation
-- [ ] New and existing unit tests pass locally with my changes.
+- [X] My code follows the style guidelines of this project.
+- [X] I have performed a self-review of my code.
+- [X] I have commented on my code, particularly in hard-to-understand areas.
+- [X] My changes do not introduce new warnings.
+- [X] I have added tests that prove my fix is effective or that my feature works.
+- [X] I have made corresponding changes to the documentation
+- [X] New and existing unit tests pass locally with my changes.
 
 ### Screenshots 
 
