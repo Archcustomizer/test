@@ -160,7 +160,7 @@
   "custom/exit": {
     "format": "",
     "on-click": "~/.config/ml4w/scripts/wlogout.sh",
-    "on-click-right": "qdbus org.kde.LogoutPrompt /LogoutPrompt org.kde.LogoutPrompt.promptLogout",
+    "on-click-right": "qdbus org.freedesktop.ScreenSaver /ScreenSaver Lock",
     "tooltip-format": "Left: Power menu\nRight: Lock screen"
   },
   // SwayNC
@@ -199,7 +199,7 @@
     "exec-on-event": true,
     "interval": 60,
     "exec": "~/.config/hypr/scripts/hypridle.sh status",
-    "on-click": "~/.config/hypr/scripts/hypridle.sh toggle"
+    "on-click": "qdbus org.freedesktop.ScreenSaver /ScreenSaver Lock"
   },
   // Keyboard State
   "keyboard-state": {
@@ -276,7 +276,6 @@
       "custom/tools",
       "custom/cliphist",
       "custom/hypridle",
-      "custom/hyprshade",
       "power-profiles-daemon"
     ]
   },
